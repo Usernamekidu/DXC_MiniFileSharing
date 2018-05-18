@@ -1,11 +1,8 @@
 Mini File Sharing - MFS
 A small file sharing website using Spring Framework, AngularJS, JQuery, Hibernate
 
-Getting Started
-See deployment for notes on how to deploy the project on a live system.
-
 Prerequisites
-Eclipse Neon Maven Bootstrap AngularJS SQL SERVER
+Eclipse Maven Bootstrap AngularJS SQL SERVER
 
 Installing
 Create database name: MiniShareFile in MySQL
